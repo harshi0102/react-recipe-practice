@@ -62,6 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 
 **[React Recipe Project]** is a...website that shows the indian recipe which is built with reactjs, ES6 a,javascript and HTML/css.
+Live demo link: https://react-recipe-practiceproject.onrender.com/
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -90,7 +91,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://react-recipe-practiceproject.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +161,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+Click here for [Live Demo](https://react-recipe-practiceproject.onrender.com/)
 
 <!--
 Example:
